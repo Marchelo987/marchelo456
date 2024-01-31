@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marchelo456
 - 👀 I’m interested in HTML/JAVA/CSS
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning HTML/JAVA/CSS
 
 
 <!---
