@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marchelo456
-- 👀 I’m interested in HTML/JAVA/CSS
+- 👀 I’m interested in cyber security/ Ai specialized in recongnition of object/images 
 - 🌱 I’m currently learning HTML/JAVA/CSS
 
 
